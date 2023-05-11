@@ -1,0 +1,521 @@
+.but1{
+ width: 10%;
+ height: 40px;
+ margin-left: 1200px;
+ font-size: 15px;
+ margin-top: 10px;
+ cursor: pointer;
+    
+}
+
+#but
+{
+    margin-left: 1150px;
+    margin-top: 40px;
+    width: 100px;
+    height: 50px;
+}
+.sensor{
+    border: 1px solid;
+    width: 100%;
+    height:700px; 
+    background-image: url(park.jpg);
+    background-size: cover;
+    
+}
+
+
+.r1{
+    text-align: center;
+    font-size: 55px;
+    color: #ffffff;
+    padding-top: 110px;
+    font-family:sanjai;
+
+}
+.r2{
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+
+}
+.x1{
+    margin-left: 650px;
+    height: 40px;
+    width: 200px;
+    font-size: 15px;
+    margin-top: 20px;
+    background-color: transparent;
+    color: #ffffff;
+    border: 2px solid wheat;
+}
+.x1:hover{
+    font: bold;
+    background-color: #e7e6eb;
+    cursor: pointer;
+    border: none;
+    color: black;
+
+    
+}
+.r3{
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+ @font-face {
+    font-family:sanjai ;
+    src: url(Montserrat/static/Montserrat-Light.ttf);
+ }
+ 
+    
+.steyn{
+    width: 37%;
+    height: 850px;
+    background-image: url(park1.png);
+    margin-top: 80px;
+    margin-left: 600px;
+   
+    
+}
+
+
+.run{
+    width: 700px;
+    height: 600px;
+    display: flex;
+    position: absolute;
+    margin-top: -680px;
+    margin-left: 750px;
+    padding-top: 250px;
+
+}
+.m1{
+    
+    width: 220px;
+    height: 170px;
+    background-color: #ffffff;
+}
+.m2{
+    
+    width: 220px;
+    height: 170px;
+    margin-left: 30px;
+    background-color: #ffffff;
+
+}
+.m3{
+    width: 220px;
+    height: 170px;
+    display:flex;
+    background-color: #ffffff;
+    
+   
+
+}
+.m4{
+
+    width: 220px;
+    height: 170px;
+    display: flex;
+    margin-left: 30px;
+    background-color: #ffffff; 
+
+}
+.run1{
+    display: flex;
+    margin-top: -480px;
+    position: absolute;
+    margin-left: 750px;
+    padding-top: 250px;
+    
+}
+.better{
+    border: 1px solid;
+    border-radius: 100px;
+    height: 78px;
+    width: 78px;
+    background-color: #232f79;
+    margin-left: 70px;
+    margin-top: 30px;
+    
+}
+.u8{
+    margin-left: 9px;
+}
+.ey{
+    padding-top: 25px;
+    margin-left: 23px;
+    color: #ffffff;
+}
+.today{
+    padding-top: 10px;
+    font-family:sanjai;
+    margin-left: -15px;
+}
+
+
+.h1{
+    margin-top: 700px;
+    margin-left: -360px;
+}
+.rabbit{
+    width:57%;
+    height: 600px;
+    display: flex;
+    background-image: url(win.jpg);
+    position: absolute;
+    margin-left: -361px;
+    margin-top: 60px;
+    background-size: cover;
+}
+.cat{
+    width: 100%;
+    height: 900px;
+    font-size: 30px;
+    font-family:sanjai;
+    text-align: center;
+    margin-top: 100px;
+    background-color:#ffffff;
+}
+.z2{
+    position: relative;
+    margin-top: -670px;
+    margin-left: 400px;
+    display: flex;
+    
+}
+
+.dove{
+    background-color: #ffffff;
+    margin-top: -40px;
+}
+ .mat{ 
+    border: 1px #ffffff;
+    box-shadow: 5px 10px 45px rgba(0,0,0,.3);
+    width: 30%;
+    height: 195px;
+    padding-left: -90px;
+    font-family:sanjai;
+    font: 16px;
+    margin-left: -130px;
+    margin-top: -30px;
+    
+ 
+    
+
+}
+.pat{
+    border: 1px #ffffff;
+    box-shadow: 5px 10px 45px rgba(0,0,0,.3);
+    width: 30%;
+    height: 195px;
+    font-family:sanjai;
+    margin-left: 20px;
+    margin-top: -30px;
+    margin-bottom: 27px;
+    background-color: #ffffff;
+   
+
+    
+}
+.sat{
+    border:1px #f2f2f23a solid;
+    box-shadow: 5px 10px 45px rgba(0,0,0,.3);
+    width: 30%;
+    height: 195px;
+    font-family:sanjai;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.ariya{
+    border-radius: 300px;
+    height: 400px;
+    width: 30%;
+    margin-left: 550px;
+    margin-top: -40px;
+    background-image: url(wing.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    
+}
+.snow{
+    margin-left: 30px;
+    padding-top: 21px;
+}
+.bird{
+   padding-top: 520px;
+   margin-left: -252px;
+}
+.v1{
+    border: 1px solid;
+    width: 100%;
+    height:900px;
+    margin-top: 70px;
+    
+}
+.img{
+    background-image: url(beach.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+.v2{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    background-color: #232f79;
+
+
+}
+.s1{
+    border: 1px solid;
+    height: 280px;
+    width: 17%;
+    background-color: #ffffff;
+    margin-left: 200px;
+    margin-top: -80px;
+}
+.s2{
+    border: 1px solid;
+    height: 280px;
+    width: 17%;
+    background-color: #ffffff;
+    margin-left: 20px;
+    margin-top: -80px;
+    
+}
+.s3{
+    border: 1px solid;
+    height: 280px;
+    width: 17%;
+    background-color: #ffffff;
+    margin-left: 20px;
+    margin-top: -80px;
+}
+
+.s4{
+    border: 1px solid;
+    height: 280px;
+    width: 17%;
+    background-color: #ffffff;
+    margin-left: 20px;
+    margin-top: -80px;
+}
+.raj{
+    border: 1px solid;
+    border-radius:90px;
+    height: 65px;
+    width: 65px;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: center;
+    background-color: #232f79;
+}
+.taj{
+    margin-top:-55px;
+    margin-left: 48px;
+    font-size: 40px;
+    color: #f2f2f2;
+}
+.rat{
+    margin-left: 30px;
+}
+.ram{
+    margin-left: 30px;
+    font-size: 15px;
+}
+.san{
+    margin-left: 27px;
+    font-size: 15px;
+    color: black;
+}
+.catch{
+ margin-top: 70px;
+ margin-left: -340px;
+ color: #f2f2f2;
+}
+.zat{
+    width: 90%;
+    height: 650px;
+    margin-top: 180px;
+    position: absolute;
+}
+.people{  
+    background-image: url(port.jpg);
+    background-size: cover;
+    width: 45%;
+    height: 500px;
+    margin-left: 320px;
+    position: absolute;
+    margin-top: -300px;
+}
+.soorav{ 
+
+    width: 35%;
+    height: 500px;
+    margin-top: -80px;
+    margin-left: 250px;
+    background-color:#B8BEF0
+ } 
+.zet{ 
+
+    width: 42%;
+    height: 600px;
+    margin-top: -650px;
+    margin-left:550px;
+    background-color: #f2f2f2;
+
+    
+}
+.pip{
+    margin-left:40px;
+    font-family:sanjai ;
+    font-size: 38px;
+    padding-top: 40px;
+    background-color: #ffffff;
+    
+}
+.zip{
+    margin-left: 40px;
+}
+.rip{
+    margin-left: 40px;
+}
+.rope{
+    margin-left: 38px;
+    height:38px ;
+    width: 25%;
+    background-color: #232f79;
+    color: #f2f2f2;
+    margin-top: 20px;
+}
+.phone{
+    width: 100%;
+    height: 500px;
+    margin-top: 850px;
+    
+
+}
+.cow{
+    width: 30%;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 200px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+.dog{
+    width: 30%;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: -70px;
+    font-family: 'Open Sans', sans-serif;
+}
+.pig{
+    width: 30%;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: -70px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sunthai{
+    display: flex;
+    
+}
+.part{
+    font-family:sanjai ;
+    font-size: 36px;
+    text-align: center;
+
+
+}
+.snow{
+    margin-left: 40px;
+    margin-top: -40px;
+    font-size: 17px;
+}
+.pro{
+    border: 1px solid;
+    width: 100%;
+    height: 550px;
+    margin-top: -180px;
+    background-image: url(done.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+ .ont{
+    width: 42%;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 90px;
+    position: absolute;
+    background-color: #f2f2f2;
+}
+.rate{
+    text-align: center;
+    font-family:sanjai ;
+    font-size: 36px;
+}
+.roast{
+    border: 2px solid;
+    border-radius: 0px;
+    width: 23%;
+    height: 35px;
+   margin-top: 200px;
+   margin-left: 550px;
+   position: absolute;
+}
+.rubber{
+    width: 8%;
+    height: 39px;
+    margin-top: 200px;
+    margin-left: 781px;
+    position: absolute;
+    background-color: #232f79;
+    color: #f2f2f2;
+    cursor: pointer;
+}
+.rubber:hover{
+  color: #f2f2f2
+}
+.surya{
+
+    width: 42%;
+    height: 100px;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 280px;
+
+}
+.sub{
+    margin-left: 290px;
+    font-family:sanjai ;
+}
+.fast{
+margin-left: 280px;
+margin-top: -10px;
+font-size: 30px;
+}
+.nand{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color: #333333;
+    color: #f2f2f2;
+    padding-top: 50px;
+}
+
+   
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:ital,wght@1,300&display=swap');
+
+
+
+
